@@ -1,6 +1,6 @@
 # CodeAlpha_Internship_project
 Web Development Internship
 <br>
-Task 1:-
+<b>Task 1:-<b>
 <br>
 Age Calculator
